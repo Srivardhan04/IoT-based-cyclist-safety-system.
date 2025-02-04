@@ -16,3 +16,7 @@ Tech Stack
 🛠 Hardware: ESP32, MPU6050, GPS Module
 
 This system ensures cyclist safety with proactive AI-driven alerts 🚴💡.
+
+Project Output Link:ridesafe.netlify.app
+Project image and circuit diagram:
+
